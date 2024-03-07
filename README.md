@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width='100%'&height=250&animation=twinkling&text=Jisoo's&nbsp;github)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width='100%'&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=Jisoo's&nbsp;github" style="width: 100%;" />
 <div align="center">
