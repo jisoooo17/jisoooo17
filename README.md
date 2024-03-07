@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)
 
-<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github" />
     <br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,7 +28,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17)](https://github.com/anuraghazra/github-readme-stats)
