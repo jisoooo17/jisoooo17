@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
