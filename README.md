@@ -4,7 +4,8 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=Jisoo's&nbsp;github" style="width: 100%;" />
 
 <div align="center">
-    <p>Tech Stack</p>
+    <strong>Tech Stack</strong>
+ <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -17,13 +18,13 @@
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
-
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisoooo17&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17)](https://github.com/anuraghazra/github-readme-stats)
+   
+   
+   [![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
+   
+   
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisoooo17&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+   </a>
 </div>
