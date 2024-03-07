@@ -29,14 +29,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <br/>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisoooo17&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-    </a>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17" />
-    <br/>
-    <img src="https://streak-stats.demolab.com?user=jisoooo17&mode=weekly" />
 </div>
 
 
