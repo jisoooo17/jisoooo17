@@ -4,6 +4,10 @@ Jisoo's&nbsp;github Jisoo's&nbsp;github
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />
 
+
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+
+
 <div align="center">
  <strong>⭐️Tech Stack⭐️</strong>
  <br><br>
