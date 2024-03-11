@@ -25,7 +25,7 @@ Jisoo's&nbsp;github Jisoo's&nbsp;github
  <br>
  
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17)](https://git.io/streak-stats)
 
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
