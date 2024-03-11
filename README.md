@@ -4,7 +4,7 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=0:7bcfe8,100:29e480&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=0:7bcfe8,100:29e480&width=100%&height=270&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=0:7bcfe8,100:29e480&width=100%&height=240&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />-->
 
 
