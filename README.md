@@ -1,6 +1,6 @@
 <!--![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoooo17&show_icons=true&theme=radical)-->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Hi!&nbsp;I'm&nbsp;Jisoogithub)-->
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=Jisoo's&nbsp;github" style="width: 100%;" />
 
 <div align="center">
