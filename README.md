@@ -1,7 +1,7 @@
 <!--![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoooo17&show_icons=true&theme=radical)-->
 Jisoo's&nbsp;github Jisoo's&nbsp;github
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=Hi!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />
 
 <div align="center">
  <strong>⭐️Tech Stack⭐️</strong>
