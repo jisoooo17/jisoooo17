@@ -20,13 +20,11 @@
 
  <br> 
  <br>
- 
+ <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17)](https://github.com/anuraghazra/github-readme-stats)
  <br>
- 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
-
+ [![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
+-->
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17" alt="Top Langs">
