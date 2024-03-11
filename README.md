@@ -2,16 +2,7 @@
 <!--![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoooo17&show_icons=true&theme=radical)-->
 <!--Jisoo's&nbsp;github Jisoo's&nbsp;github-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:afedff,97f1c1:3b8f43&height=250&animation=twinkling&text=Jisoo's&nbsp;github)
-<style>
-    .header-container {
-        background: linear-gradient(90deg, rgba(175, 237, 255, 1) 0%, rgba(151, 241, 193, 1) 100%);
-    }
-</style>
-
-<div class="header-container">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's%20github" style="width: 100%;" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:#afedff,#97f1c1:3b8f43&height=250&animation=twinkling&text=Jisoo's&nbsp;github)
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />-->
