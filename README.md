@@ -3,7 +3,8 @@
 <!--Jisoo's&nbsp;github Jisoo's&nbsp;github-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient&height=250&animation=twinkling&text=Jisoo's%20github&customGradient=0:FFD700,100:FF8C00)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8
+&height=250&animation=twinkling&text=Jisoo's&nbsp;github)
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />-->
 
