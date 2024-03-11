@@ -7,6 +7,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />-->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:afedff,100:97f1c1:3b8f43&height=250&animation=twinkling&text=Jisoo's%20github&fontColor=FFFFFF&width=100%)
 
 
 
