@@ -8,7 +8,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />-->
 
 
-
 <div align="center">
  <strong>⭐️Tech Stack⭐️</strong>
  <br><br>
