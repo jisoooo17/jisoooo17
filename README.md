@@ -31,7 +31,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17)](https://github.com/anuraghazra/github-readme-stats)
  
  <br>
- 
+ ![jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoooo17&show_icons=true&theme=radical)
+ <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
 
