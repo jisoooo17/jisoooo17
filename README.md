@@ -1,12 +1,10 @@
 
 <!--![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoooo17&show_icons=true&theme=radical)-->
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
-
 <!--![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=0:7bcfe8,100:29e480&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=0:7bcfe8,100:29e480&width=100%&height=240&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=250&animation=twinkling&text=HI!&nbsp;I'm&nbsp;Jisoo" style="width: 100%;" />-->
-
 
 <div align="center">
  <strong>⭐️Tech Stack⭐️</strong>
@@ -33,7 +31,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
  
  
- 
+
  <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jisoooo17&mode=weekly)](https://git.io/streak-stats)
@@ -42,4 +40,5 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisoooo17&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a>
+  
 </div>
