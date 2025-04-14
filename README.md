@@ -51,5 +51,7 @@
   </a> 
 
 
-
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jisoooo17&theme=vue&show_icons=true"/></a>
+</p>
 </div>
