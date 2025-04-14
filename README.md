@@ -50,8 +50,4 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=jisoooo17&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </a> 
 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jisoooo17&theme=vue&show_icons=true"/></a>
-</p>
 </div>
