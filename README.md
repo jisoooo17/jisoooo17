@@ -1,4 +1,3 @@
-
 <!--![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoooo17&show_icons=true&theme=radical)-->
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
 <!--![header](https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=0:7bcfe8,100:29e480&height=250&animation=twinkling&text=Jisoo's&nbsp;github)-->
@@ -18,8 +17,8 @@
   <br/>
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-css%20modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+ <img src="https://img.shields.io/badge/-css%20modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  
  
  <br/>
