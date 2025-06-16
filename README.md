@@ -36,8 +36,6 @@
   <br/>
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
- 
-
 
  <br> 
  <br>
@@ -46,7 +44,6 @@
 
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)-->
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoooo17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
- 
  
 
  <br>
